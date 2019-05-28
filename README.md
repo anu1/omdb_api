@@ -11,7 +11,7 @@ omdb API access, please register on the webpage ('http://omdbapi.com/') and get 
 [bash@localhost omdbapi]$ cat omdbapi_keys.json
 {"api":"xxxxxx"}
 
-### NOTE: Tested the code under Centos 6.10, python 3.6.8, it may work with latest python versions.
+*NOTE*: Tested the code under Centos 6.10, python 3.6.8, it may work with latest python versions.
 ```
 ## Sample Usage
 
