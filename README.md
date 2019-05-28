@@ -12,9 +12,9 @@ after download: plase replace 'xxxxxx' with the actual api key in the file: omdb
 <br>[bash@localhost omdbapi]$ cat omdbapi_keys.json 
 <br>{"api":"xxxxxx"}
 <br>
-<br>NOTE: Tested the code under Centos 6.10, python 3.6.8, it may work with latest python versions.
+<br>###NOTE: Tested the code under Centos 6.10, python 3.6.8, it may work with latest python versions.
 <br>
-Sample Usage
+##Sample Usage
 <br>bash$ git clone <repo>
 <br>
 <br>bash$ cd omdb_api
@@ -34,7 +34,7 @@ Sample Usage
 <br>Retrieving the movie data of "the mathematician" now… 
 <br>Rating is N/A 
 <br>---
-<br>NOTE: If your API key is invalid, you may get an error as follows:
+<br>###NOTE: If your API key is invalid, you may get an error as follows:
 <br>$ python omdb.py -m test
 <br>movie name =  test
 <br>Retrieving the movie data of "test" now… 
