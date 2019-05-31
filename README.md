@@ -1,6 +1,6 @@
 # OMDB Parser Package
 
-This repo contains the source code files required to access the Online Movie Databas website http://www.omdbapi.com through API calls and return the movie *rating* if the movie name is found in the database.  
+This repo contains the source code files required to access the Online Movie Databas website http://www.omdbapi.com through API calls and return the movie **rating** if the movie name is found in the database.  
 
 Pre-Requisites:  
 
@@ -12,7 +12,7 @@ omdb API access, please register on the webpage ('http://omdbapi.com/') and get 
 {"api":"xxxxxx"}
 ```
 
-*NOTE*: Tested the code under Centos 6.10, python 3.6.8, it may work with latest python versions.
+**NOTE**: Tested the code under Centos 6.10, python 3.6.8, it may work with latest python versions.
 ## Sample Usage
 
 ```
