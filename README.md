@@ -1,4 +1,4 @@
-# OMDB Parser Package
+# OMDB Parser Tool
 
 This repo contains the source code files required to access the Online Movie Databas website http://www.omdbapi.com through API calls and return the movie **rating** if the movie name is found in the database.  
 
