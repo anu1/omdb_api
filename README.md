@@ -2,11 +2,12 @@
 
 This repo contains the source code files required to access the Online Movie Databas website http://www.omdbapi.com through API calls and return the movie **rating** if the movie name is found in the database.  
 
-Pre-Requisites:  
+**Pre-requisites:**  
 
-CentOS 6.x  
-python 3.x  
-omdb API access, please register on the webpage ('http://omdbapi.com/') and get the API key after download: plase replace 'xxxxxx' with the actual api key in the file: omdbapi_keys.json  
+**RHEL/CentOS 6.x**  
+**Python 3.x**
+**omdb API access**; 
+please register on the webpage ('http://omdbapi.com/') and get the API key after download: plase replace 'xxxxxx' with the actual api key in the file: omdbapi_keys.json  
 ```
 [bash@localhost omdbapi]$ cat omdbapi_keys.json
 {"api":"xxxxxx"}
