@@ -4,9 +4,9 @@ This repo contains the source code files required to access the Online Movie Dat
 
 **Pre-requisites:**  
 
-**RHEL/CentOS 6.x**  
-**Python 3.x**
-**omdb API access**; 
+**1. RHEL/CentOS 6.x** 
+**2. Python 3.x**  
+**3. omdb API access**;  
 please register on the webpage ('http://omdbapi.com/') and get the API key after download: plase replace 'xxxxxx' with the actual api key in the file: omdbapi_keys.json  
 ```
 [bash@localhost omdbapi]$ cat omdbapi_keys.json
