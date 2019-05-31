@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 # python code to extract movie rating info from omdb.com webserver
+# include all the libraries
 import urllib.parse
 import urllib.request
 import json
